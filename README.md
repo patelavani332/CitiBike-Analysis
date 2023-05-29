@@ -1,5 +1,5 @@
 # CitiBike-Analysis
-Vizualization Using Tableau
+Visualization Using Tableau
 
 ### Before You Begin
 This was saved and published to my Tableau Public account: https://public.tableau.com/views/JC-CitiBike-AnalysisViz/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
